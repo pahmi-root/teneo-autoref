@@ -370,7 +370,7 @@ class TeneoAutoref:
                         return True
                     
             except Exception as e:
-                log_message(self.current_num, self.total, f"Activation error: {str(e)}, retrying...", "warning")
+                log_message(self.current_num, self.total, f"Activation error, retrying...", "warning")
                 continue
         
     def check_user_onboarded(self, access_token):
