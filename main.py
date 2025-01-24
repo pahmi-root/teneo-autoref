@@ -450,9 +450,19 @@ class TeneoAutoref:
 
 def main():
     banner = f"""
-{Fore.LIGHTCYAN_EX}╔═══════════════════════════════════════════╗
-║            Teneo Autoreferral             ║
-║       https://github.com/im-hanzou        ║
+{Fore.LIGHTGREEN_EX} ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄    ▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ 
+█       █       █  █  █ █       █       █
+█▄     ▄█    ▄▄▄█   █▄█ █    ▄▄▄█   ▄   █
+  █   █ █   █▄▄▄█       █   █▄▄▄█  █ █  █
+  █   █ █    ▄▄▄█  ▄    █    ▄▄▄█  █▄█  █
+  █   █ █   █▄▄▄█ █ █   █   █▄▄▄█       █
+  █▄▄▄█ █▄▄▄▄▄▄▄█▄█  █▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█
+
+╔═══════════════════════════════════════════╗
+║           SCRIPT BY : im-hanzou           ║
+║                                           ║
+║           https://t.me/elpuqus            ║ 
+║       https://github.com/im-hanzou        ║                        
 ╚═══════════════════════════════════════════╝{Style.RESET_ALL}
 """
     print(banner)    
